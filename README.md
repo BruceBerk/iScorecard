@@ -10,8 +10,10 @@ Scorecard app for tabletop baseball games
 
 ## Play
 1. Create a game matchup
-2. Score the game
-3. Save the game
+2. Select starting pitchers
+3. Select lineups & assign positions
+4. Score the game
+5. Save the game
 
 ## Stats
 1. View/Export standings
